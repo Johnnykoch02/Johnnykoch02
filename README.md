@@ -17,7 +17,7 @@ Hello! I'm Jonathan Koch, a dedicated Software Engineer and AI Researcher at the
 
 - **Senior Coding Coach and Instructor at theCoderSchool Tampa**: Led initiatives to simplify Agent AI concepts for children, developing a Python-based educational library. Allowed students to Black-box creating ML Models for data driven tasks.
 
-- **Vice Chair of AI Group, VEX Robotics at USF IEEE Student Chapter**: Organized fornal and constructive professional events and workshops, founded AI an group, and worked efforlessly to cultivate popularity and interest in AI.
+- **Vice Chair, AI Group Founder, VEX Robotics Programming Team Founder at USF IEEE Student Chapter**: Organized fornal and constructive professional events and workshops, founded AI an group, and worked efforlessly to cultivate popularity and interest in AI.
 
 ### Projects
 - **Teach-A-Bull (AI Tutor)**: Utilizing LLMs for educational content generation. [GitHub](https://github.com/USF-IEEE/AITutor-Backend/blob/main/README.md)
