@@ -12,9 +12,11 @@ Hello! I'm Jonathan Koch, a dedicated Software Engineer and AI Researcher at the
 
 ### Experience
 - **Software Engineering R&D Co/Op at CAE USA R&D Facility, Tampa, FL**:At CAE, I have been able to undergo tons of different projects working in different areas of technology. I've developed and configured parallel hardware and lab nodes for simulation and R&D. Additionally, I was able to integrate dozens of untouched repositories into CI/CD pipelines. More recently, I have been working in the R&D side; here I have collaborated on touchscreen sensor mapping driver for a multiscreen device, worked closely with MLOps platforms for AI/ML solutions, and integrated NLP to process natural language commands into executble code.
--  
+   
 - **Research Scientist at Robot Perception and Action Laboratory, USF**: Conducted research on robotic object manipulation and perception, focusing on developing transformer encoders for spatial and temporal representations.
+
 - **Senior Coding Coach and Instructor at theCoderSchool Tampa**: Led initiatives to simplify Agent AI concepts for children, developing a Python-based educational library. Allowed students to Black-box creating ML Models for data driven tasks.
+
 - **Vice Chair of AI Group, VEX Robotics at USF IEEE Student Chapter**: Organized fornal and constructive professional events and workshops, founded AI an group, and worked efforlessly to cultivate popularity and interest in AI.
 
 ### Projects
