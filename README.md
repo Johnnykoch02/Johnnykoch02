@@ -38,7 +38,7 @@ University of South Florida College of Engineering (Fall 2020 – Spring 2024)
 
 ---
 
-#### ML Engineer – Topaz Labs (TopazLabs.com)  
+#### ML Engineer – Topaz Labs ([TopazLabs.com](https://topazlabs.com/))  
 **June 2024 – Present | Addison, TX**  
 - Designed, trained, and integrated ML models for quality assessment, segmentation, semantic analysis, and enhancement of images/videos.  
 - Architected a zero-click enhancement pipeline for cloud API users, allowing dynamic multi-step processing and incremental quality checks.  
