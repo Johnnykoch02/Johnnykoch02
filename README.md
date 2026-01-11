@@ -1,7 +1,3 @@
-Below is an updated version of your professional overview, incorporating the latest details from your new resume. Feel free to adjust the content and formatting as you see fit.
-
----
-
 ## Jonathan Koch – AI Software Engineer
 
 Hello! I’m Jonathan Koch, a driven Software Engineer and AI Researcher with broad experience in both academic and industry settings. I’m passionate about Robotics, AI, and leveraging cutting-edge techniques—like LLM fine-tuning, contrastive learning, and multi-modal data processing—to tackle real-world challenges. My work spans from developing advanced object manipulation algorithms to designing high-impact ML solutions for image/video enhancement and job-search engines. Outside of tech, you can find me playing acoustic guitar, piano, or training in Brazilian Jiu-Jitsu.
